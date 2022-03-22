@@ -2,8 +2,6 @@
   font-family:'hello_adventure';
   src:url('https://JaydeSebring22.github.io/bacs200/hello_adventure.ttf') format('truetype');
 }
-
-}
 h1 {
   font-family:'hello_adventure';
   font-size: 32px;
