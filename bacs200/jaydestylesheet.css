@@ -1,9 +1,9 @@
 @font-face {
   font-family:'hello_adventure';
-  src:url('https://JaydeSebring22.github.io/bacs200/hello_adventure.ttf') format('truetype');
+  src:url('https://JaydeSebring22.github.io/bacs200/sweet-ribbon.ttf') format('truetype');
 }
 h1 {
-  font-family:'hello_adventure';
+  font-family:'sweet-ribbon.ttf';
   font-size: 32px;
   color:white;
 }
@@ -12,10 +12,10 @@ a {
  text-align:center;
 }
 b, strong {
- font-family:'hello_adventure'; 
+ font-family:'sweet-ribbon.ttf'; 
 }
 em {
-  font-family:'hello_adventure';
+  font-family:'sweet-ribbon.ttf';
 }
 ol,ul,li {
   color:gold;
