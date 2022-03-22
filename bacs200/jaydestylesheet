@@ -1,54 +1,29 @@
 @font-face {
-  font-family:'Mali-Regular';
-  src:url('https://JaydeSebring22.github.io/bacs200/Mali-Regular.ttf') format('truetype');
+  font-family:'hello_adventure';
+  src:url('https://JaydeSebring22.github.io/bacs200/hello_adventure.ttf') format('truetype');
 }
-@font-face {
-    font-family:'Faustina-Regular';
-  src:url('https://JaydeSebring22.github.io/bacs200/Faustina-Regular.ttf') format('truetype');
-}
-@font-face {
-    font-family:'Faustina-Bold';
-  src:url('https://JaydeSebring22.github.io/bacs200/Faustina-Bold.ttf') format('truetype');
-}
-@font-face {
-    font-family:'Faustina-Italic';
-  src:url('https://JaydeSebring22.github.io/bacs200/Faustina-Italic.ttf') format('truetype');
+
 }
 h1 {
-  font-family:'Mali-Regular';
+  font-family:'hello_adventure';
   font-size: 32px;
   color:white;
 }
-h2 {
-  font-family:'Faustina-Regular';
-  font-size:28px;
-  color:white;
-}
-h3 {
-  font-family:'Faustina-Regular';
-  font-size:20px;
-  color:white;
-}
-p {
- font-family:'Faustina-Regular';
- font-size:16px;
- color:white;
-}
 a {
- color:gold; 
+ color:bright red; 
  text-align:center;
 }
 b, strong {
- font-family:'Faustina-Bold'; 
+ font-family:'hello_adventure'; 
 }
 em {
-  font-family:'Faustina-Italic';
+  font-family:'hello_adventure';
 }
 ol,ul,li {
   color:gold;
 }
 body {
- background-color:Bright Pink; 
+ background-color:bright pink; 
 }
 caption {
  font-weight:bold; 
@@ -61,7 +36,7 @@ th {
  color:white;
     }
 th,td {
-  border: 1px solid gold;
+  border: 1px green;
   padding-left:10px;
   padding-right:10px;
   padding-top:10px;
@@ -76,7 +51,7 @@ table {
         }
 header,main,footer {
  border-style: solid;
- border-color: black;
+ border-color: yellow;
  border-width: 2px;
 }
 header {
@@ -88,7 +63,7 @@ font-size: 80pt;
 header,main {
  padding:5px;
  margin:1in;
- background-color:blue;
+ background-color:pink;
 }
 main {
  margin:auto;
@@ -103,7 +78,7 @@ margin:0 auto;
 text-align:left;
 padding-left: 2px;
 }
-#wantedList {
+WantedPoster {
  font-size:28px;
  float:right;
 }
