@@ -15,8 +15,7 @@ h4{
 }
 table
 {
-  margin-right: auto;
-  margin-left: auto;
+  display:inline-table;
 }
 
 
