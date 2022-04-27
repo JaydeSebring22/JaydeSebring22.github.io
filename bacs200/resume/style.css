@@ -1,7 +1,7 @@
 * {
    background-color: gold;
    font-family:"Lucida Console", "Courier New", monospace;
-  
+   text-align:center 
 }
 h1,h2{
    color:blue;
@@ -10,3 +10,8 @@ img{
    width:200px;
    height:200px;
 }
+li{
+   width:fit-content;
+   block-size:fit-content;
+}
+   
