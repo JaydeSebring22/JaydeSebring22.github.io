@@ -15,6 +15,7 @@ li{
    block-size:fit-content;
 }
 ul{
-   align-iteams: center;
-   text-align:center;
+   align-items: center;
+   display:flex;
+   margin:auto;
 }
