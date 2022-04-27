@@ -13,6 +13,7 @@ img{
 li{
    width:fit-content;
    block-size:fit-content;
+   display:inline-block;
 }
 ul{
    align-items: center;
