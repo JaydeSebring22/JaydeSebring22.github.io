@@ -1,11 +1,8 @@
 * {
    background-color: pink;
    font-family:"Lucida Console", "Courier New", monospace;
-   text-align: center
+  
 }
 h1,h2{
    color:orange;
-}
-ul{
-   width:50%;
 }
